@@ -18,7 +18,7 @@ $featured_img_style = buddyboss_theme_get_option( 'blog_featured_img' );
 	endif;
 	?>
 
-	<div id="primary" class="content-area">
+	<div id="primary" class="content-area classroom-single-post-area">
 		<main id="main" class="site-main">
 
 			<?php
